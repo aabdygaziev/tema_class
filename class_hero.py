@@ -8,3 +8,4 @@ class Hero ():
 hero1 = Hero('Aktan')
 hero1.display()
 print(hero1.name)
+

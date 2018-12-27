@@ -15,6 +15,7 @@ class Driver():
         if self.car.km > 99:
             self.experience += 1
             self.money += 100
+            print(self.money)
 
     def display(self):
         print(self)
